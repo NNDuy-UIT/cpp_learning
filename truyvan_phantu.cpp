@@ -3,6 +3,12 @@
 using namespace std;
 
 long long mod = 1e9 + 7;
+/*
+đối với bài này, cần dùng mảng đánh dấu và mảng cộng dồn
+ý tưởng sẽ là đánh dấu phần tử cùng với nhập mảng cộng dồn, với mỗi phần tử a[i] chưa được đánh dấu thì mảng cộng dồn ở trị trí i sẽ được tăng giá trị
+(chưa đánh dấu = giá trị chưa xuất hiện = giá trị khác nhau)
+*/
+
 
 int mark[1000005];
 
@@ -27,4 +33,5 @@ int main(){
         cout << f[k] << endl;
     }
     return 0;
+
 }
