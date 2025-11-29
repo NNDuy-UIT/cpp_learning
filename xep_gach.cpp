@@ -10,6 +10,9 @@ using namespace std;
 
 long long mod = 1e9 + 7;
 
+/*
+với mỗi lần duyệt qua phần tử, cập nhật độ cứng hiện tại của chồng gạch, nếu phần tử dang xét nhỏ hơn độ cứng của chồng thì nó là độ là độ cứng mới
+*/
 bool cmp(int x, int y){
     return x > y;
 }
@@ -36,4 +39,5 @@ int main(){
     }
     cout << re.size();
     return 0;
+
 }
