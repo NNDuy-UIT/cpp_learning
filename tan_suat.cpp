@@ -11,7 +11,11 @@ using namespace std;
 long long mod = 1e9 + 7;
 
 
+/*
+Sắp xếp các phần tử trong mảng theo tần suất giảm dần, nếu 2 số có cùng tần suất thì số nào nhỏ hơn sẽ in ra trước.
 
+Sắp xếp các phần tử trong mảng theo tần suất giảm dần, nếu 2 số có cùng tần suất thì số nào xuất hiện trước sẽ in ra trước.
+*/
 
 int main(){
     int n; cin >> n;
@@ -46,4 +50,5 @@ int main(){
         }
     }
     return 0;
+
 }
