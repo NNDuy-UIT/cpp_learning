@@ -1,1 +1,1 @@
-Đây sẽ là nơi mà mình lâu lâu sẽ lưu giữ mấy cái code mình thấy hay trong thời gian đầu học lập trình, đa phần là vò đầu bứt tai, anti AI, như 1 cách để rèn 1 tí tư duy thuật toán và lỡ đâu mình quên, hoặc mình muốn share cho ai đó
+Đây sẽ là nơi mà mình lâu lâu sẽ lưu giữ mấy cái code mình thấy hay trong thời gian đầu học lập trình, đa phần là vò đầu bứt tai, như 1 cách để rèn 1 tí tư duy thuật toán và lỡ đâu mình quên, hoặc mình muốn share cho ai đó
