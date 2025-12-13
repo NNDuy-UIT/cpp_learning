@@ -30,10 +30,10 @@ int main(){
         }
         if (st.size() == 0) cout << 0 << " ";
         else{
-            auto it = st.rbegin();
-            cout << *it << " ";
+            cout << *(st.rbegin()) << " ";
         }
         st.push_back(i);
     }
     return 0;
+
 }
